@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+replace.yml
+forwarder.session
+forwarder.session-journal
+.idea
+config.ini
+output.log
